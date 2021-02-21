@@ -1,7 +1,7 @@
 #ifndef CEREAL_TYPES_ABFIXEDLIST_HPP_
 #define CEREAL_TYPES_ABFIXEDLIST_HPP_
 
-#include "ab/fixedlist.hpp"
+#include "ab/util/fixedlist.hpp"
 #include "cereal/cereal.hpp"
 
 namespace cereal {
