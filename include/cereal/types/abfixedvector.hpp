@@ -1,7 +1,7 @@
 #ifndef CEREAL_TYPES_ABFIXEDVECTOR_HPP_
 #define CEREAL_TYPES_ABFIXEDVECTOR_HPP_
 
-#include "ab/util/fixedvector.hpp"
+#include "ab/container/fixedvector.hpp"
 #include "cereal/cereal.hpp"
 
 namespace cereal {
